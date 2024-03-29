@@ -1,0 +1,319 @@
+﻿Polymer,SMILES,P_MW,P_wt%,surface tension (mN/m),pore maker,pore maker molecular weight (Da),pore maker wt% (pore maker to total weight),additive,additive wt% (additive to polymer),organic solvent,solubility parameter (MPa1/2),TMP (bar),organic compound,oraganic compound concentration (mg/L),organic compound size (Da),foulant,foulant concentration (mg/L),water permeability (LMH/bar),organic compound removal (%),flux decline ratio (%),flux recovery ratio (%) ,reversible fouling ratio (%),irreversible fouling ratio(%)
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,,15,,PEG,1000,6,GO-1,0,DMAc,22.7,1,BSA,500,68000,BSA,500,132.2,96.8,24,50,26,50
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,,15,,PEG,1000,6,GO-1,0.5,DMAc,22.7,1,BSA,500,68000,BSA,500,175,96,55,80,25,20
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,,15,,PEG,1000,6,GO-1,1,DMAc,22.7,1,BSA,500,68000,BSA,500,200,95,63.5,82,18.5,18
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,,15,,PEG,1000,6,GO-1,1.5,DMAc,22.7,1,BSA,500,68000,BSA,500,231.7,93,65.5,83.5,18,16.5
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,,15,,PEG,1000,6,GO-1,2,DMAc,22.7,1,BSA,500,68000,BSA,500,250,91,37,62,25,38
+Polyvinylidene fluoride,*CC(*)(F)F,,17,29.2,none,,0,MnO2 NPs,0.5,NMP,22.9,3.45,BSA,1000,,BSA,1000,21.16,88.7,62.5,81.5,19,18.5
+Polyvinylidene fluoride,*CC(*)(F)F,,16.5,29.2,none,,0,MnO2 NPs,1,NMP,22.9,3.45,BSA,1000,,BSA,1000,28.4,91.4,65.5,87.5,22,12.5
+Polyvinylidene fluoride,*CC(*)(F)F,,17,29.2,none,,0,MnO2 NPs,0.5,NMP,22.9,3.45,HA,1000,,HA,1000,21.16,87.4,67,77,10,23
+Polyvinylidene fluoride,*CC(*)(F)F,,16.5,29.2,none,,0,MnO2 NPs,1,NMP,22.9,3.45,HA,1000,,HA,1000,28.4,90.6,67,82,15,18
+Polyvinylidene fluoride,*CC(*)(F)F,,15.5,29.2,none,,0,MnO2 NPs,2,NMP,22.9,3.45,HA,1000,,HA,1000,31.88,95.6,66.5,87.5,21,12.5
+Polyvinylidene fluoride,*CC(*)(F)F,475637,20,29.2,none,,0,PVP-g-MMT,0,DMAC,22.7,1,BSA,200,68000,BSA,200,15,99,42.76,60,17.24,40
+Polyvinylidene fluoride,*CC(*)(F)F,475637,20,29.2,none,,0,PVP-g-MMT,1,DMAC,22.7,1,BSA,200,68000,BSA,200,53,90,49.37,86,36.63,14
+Polyvinylidene fluoride,*CC(*)(F)F,475637,20,29.2,none,,0,PVP-g-MMT,2,DMAC,22.7,1,BSA,200,68000,BSA,200,70,95,32.2,84,51.8,16
+Polyvinylidene fluoride,*CC(*)(F)F,475637,20,29.2,none,,0,PVP-g-MMT,4,DMAC,22.7,1,BSA,200,68000,BSA,200,74,80,43.62,81,37.38,19
+Polyvinylidene fluoride,*CC(*)(F)F,,13.3,29.2,none,,0,CNC-1,0.7,DMF,24.8,1,BSA,200,68000,BSA,200,25,89,58,80,22,20
+Polyvinylidene fluoride,*CC(*)(F)F,,12.6,29.2,none,,0,CNC-1,1.4,DMF,24.8,1,BSA,200,68000,BSA,200,65,78,44.5,82.5,38,17.5
+Polyvinylidene fluoride,*CC(*)(F)F,,11.2,29.2,none,,0,CNC-1,2.8,DMF,24.8,1,BSA,200,68000,BSA,200,130,57,41,83,42,17
+Polyvinylidene fluoride,*CC(*)(F)F,,9.8,29.2,none,,0,CNC-1,4.2,DMF,24.8,1,BSA,200,68000,BSA,200,207,40,35.8,83.8,48,16.2
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.05,DMAc,22.7,3,BSA,250,66000,BSA,250,31,97.4,53.7,68,14.3,32
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.1,DMAc,22.7,3,BSA,250,66000,BSA,250,32,97.3,42.3,78,35.7,22
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.25,DMAc,22.7,3,BSA,250,66000,BSA,250,37,97.6,78,88,10,12
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.5,DMAc,22.7,3,BSA,250,66000,BSA,250,50,98.4,57,82,25,18
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,1,DMAc,22.7,3,BSA,250,66000,BSA,250,90.4,97.3,24,74,50,26
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,2,DMAc,22.7,3,BSA,250,66000,BSA,250,42,97.4,65,90,25,10
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.05,DMAc,22.7,3,Organge Ⅱ,250,350.32,BSA,250,31,25,53.7,68,14.3,32
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.1,DMAc,22.7,3,Organge Ⅱ,250,350.32,BSA,250,32,30,42.3,78,35.7,22
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.25,DMAc,22.7,3,Organge Ⅱ,250,350.32,BSA,250,37,32,78,88,10,12
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.5,DMAc,22.7,3,Organge Ⅱ,250,350.32,BSA,250,50,36,57,82,25,18
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,1,DMAc,22.7,3,Organge Ⅱ,250,350.32,BSA,250,90.4,52,24,74,50,26
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,2,DMAc,22.7,3,Organge Ⅱ,250,350.32,BSA,250,42,34,65,90,25,10
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.05,DMAc,22.7,3,Reactive yellow 168,250,976.3,BSA,250,31,26,53.7,68,14.3,32
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.1,DMAc,22.7,3,Reactive yellow 168,250,976.3,BSA,250,32,32,42.3,78,35.7,22
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.25,DMAc,22.7,3,Reactive yellow 168,250,976.3,BSA,250,37,36,78,88,10,12
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,0.5,DMAc,22.7,3,Reactive yellow 168,250,976.3,BSA,250,50,42,57,82,25,18
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,1,DMAc,22.7,3,Reactive yellow 168,250,976.3,BSA,250,90.4,58,24,74,50,26
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,21,42,PVP,58000,1,g-C3N4-1,2,DMAc,22.7,3,Reactive yellow 168,250,976.3,BSA,250,42,37,65,90,25,10
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,14,42,none,,0,g-C3N4-2,0,DMSO,26.7,3,BSA,250,66000,BSA,250,44.5,45.5,29.4,52.4,23,47.6
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,14,42,none,,0,g-C3N4-2,0.5,DMSO,26.7,3,BSA,250,66000,BSA,250,45.83,80,30,66,36,34
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,14,42,none,,0,g-C3N4-2,1,DMSO,26.7,3,BSA,250,66000,BSA,250,83.33,92,18,80,62,20
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,14,42,none,,0,g-C3N4-2,2,DMSO,26.7,3,BSA,250,66000,BSA,250,84.9,98.5,16.3,86.3,70,13.7
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,,5,PMO-SO3H-g-SiO2-NR,0,DMF,24.8,1,BSA,1000,66000,BSA,1000,150,99,34.5,57,22.5,43
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,,5,PMO-SO3H-g-SiO2-NR,1,DMF,24.8,1,BSA,1000,66000,BSA,1000,225,99,39,70,31,30
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,,5,PMO-SO3H-g-SiO2-NR,3,DMF,24.8,1,BSA,1000,66000,BSA,1000,353,98.6,43,79,36,21
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,,5,PMO-SO3H-g-SiO2-NR,5,DMF,24.8,1,BSA,1000,66000,BSA,1000,330,98.8,48.5,87,38.5,13
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,,5,PMO-g-SiO2,3,DMF,24.8,1,BSA,1000,66000,BSA,1000,395,92,36,68,32,32
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,14,63.55,PEG,600,1.5,none,0,DMSO,26.7,1,BSA,1000,67000,BSA,1000,308.7,97.8,50.3,64,5.3,36
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,14,63.55,PEG,600,1.5,none,0,DMAc,22.7,1,BSA,1000,67000,BSA,1000,195.8,89.9,27.5,65.8,7.1,34.2
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,10,63.55,PVP,,3,TiO2 NPs-1,1,NMP,22.9,1,BSA,1000,67000,BSA,1000,213.2,92.8,8.3,90.4,9.2,9.6
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,10,63.55,PVP,,3,TiO2 NPs-1,2,NMP,22.9,1,BSA,1000,67000,BSA,1000,329.7,91.9,20.6,89.7,17.1,10.3
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,10,63.55,PVP,,3,TiO2 NPs-1,4,NMP,22.9,1,BSA,1000,67000,BSA,1000,511,86,30.8,81.9,7.8,18.1
+Polyvinylidene fluoride,*CC(*)(F)F,470000,14,29.2,none,,0,rGO,0,DMF,24.8,2.5,BSA,500,68000,BSA,500,16.8,74,22.9,38.9,16,61.1
+Polyvinylidene fluoride,*CC(*)(F)F,470000,14,29.2,none,,0,rGO,1.5,DMF,24.8,2.5,BSA,500,68000,BSA,500,32,86,40.7,71.7,31,28.3
+Polyvinylidene fluoride,*CC(*)(F)F,470000,14,29.2,none,,0,PDAAQ,1.5,DMF,24.8,2.5,BSA,500,68000,BSA,500,57.6,78,29.5,82.5,53,17.5
+Polyvinylidene fluoride,*CC(*)(F)F,470000,14,29.2,none,,0,PDAAQ-rGO,1.5,DMF,24.8,2.5,BSA,500,68000,BSA,500,68,77,31.8,86.8,55,13.2
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,53000,15,,none,,0,CuO-gC3N4,0,NMP,22.9,0.689,BSA,1000,68000,BSA,1000,210.4,96,25,54,29,46
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,53000,15,,none,,0,CuO-gC3N4,0.5,NMP,22.9,0.689,BSA,1000,68000,BSA,1000,307.7,96,62,79,17,21
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,53000,15,,none,,0,CuO-gC3N4,0.7,NMP,22.9,0.698,BSA,1000,68000,BSA,1000,254,96,61,81,20,19
+Polyphenylsulfone,COc1ccc(S(=O)(=O)c2ccc(Oc3ccc(-c4ccc(C)cc4)cc3)cc2)cc1,53000,15,,none,,0,CuO-gC3N4,1,NMP,22.9,0.689,BSA,1000,68000,BSA,1000,217.7,97,53,82,29,18
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,12,46.6,none,,0,ZIF-8,0,NMP,22.9,2,BSA,500,68000,BSA,500,105,99,23,65,42,35
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,12,46.6,none,,0,hZIF-8,2,NMP,22.9,2,BSA,500,68000,BSA,500,300,98.2,16.1,81.1,65,18.9
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,12,46.6,none,,0,ZIF-8,2,NMP,22.9,2,BSA,500,68000,BSA,500,125,97.5,13,55,42,45
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,75000,20,42,none,,0,Cysteine-GO,0,DMAc,22.7,2,BSA,1000,66000,BSA,1000,26.25,96,42.5,47.5,5,52.5
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,75000,20,42,none,,0,Cysteine-GO,0.1,DMAc,22.7,2,BSA,1000,66000,BSA,1000,37.5,97,50,70,20,30
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,75000,20,42,none,,0,Cysteine-GO,1,DMAc,22.7,2,BSA,1000,66000,BSA,1000,45,98.8,71,85,14,15
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,75000,20,42,none,,0,Cysteine-GO,2,DMAc,22.7,2,BSA,1000,66000,BSA,1000,52.5,96.2,57,65,8,35
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,18,42,PVP,10000,1.5,ZnO,0,DMAc,22.7,1,HA,50,,HA,50,10.5,95.6,65.45,74.02,8.57,25.98
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,18,42,PVP,10000,1.5,ZnO,1,DMAc,22.7,1,HA,50,,HA,50,15.5,92.1,59.93,70.93,11,29.07
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,18,42,PVP,10000,1.5,MWCNT,1,DMAc,22.7,1,HA,50,,HA,50,38.4,86,73.11,87.95,14.84,12.05
+Polyetherimide,*c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5ccc(Oc6ccc(Oc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5C4=O)cc3)cc2)cc1,,17,,none,,0,MoS2-2,0.5,NMP,22.9,4.14,HA,1000,,HA,1000,25.3,88.3,79.5,87.5,8,12.5
+Polyetherimide,*c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5ccc(Oc6ccc(Oc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5C4=O)cc3)cc2)cc1,,16.5,,none,,0,MoS2-2,1,NMP,22.9,4.14,HA,1000,,HA,1000,52.5,92.4,81,90.2,9.2,9.8
+Polyetherimide,*c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5ccc(Oc6ccc(Oc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5C4=O)cc3)cc2)cc1,,15.5,,none,,0,MoS2-2,2,NMP,22.9,4.14,HA,1000,,HA,1000,29.3,90.3,80.2,87.8,7.6,12.2
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,CNT,0,NMP,22.9,1,BSA,500,66000,BSA,500,298.85,80,10.38,50.38,40,49.62
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,CNT,1,NMP,22.9,1,BSA,500,66000,BSA,500,360.43,85,12.74,72.74,60,27.26
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,Sulfonated-CNT,1,NMP,22.9,1,BSA,500,66000,BSA,500,680,90,13.52,83.52,70,16.48
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,19,42,PVP,,1,SLS-CNT,0,DMAc,22.7,1,BSA,1000,68000,BSA,1000,170,97.8,47,62,15,38
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,19,42,PVP,,1,SLS-CNT,1.5,DMAc,22.7,1,BSA,1000,68000,BSA,1000,250,96.7,41,58.5,17.5,41.5
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,19,42,PVP,,1,SLS-CNT,0.5,DMAc,22.7,1,BSA,1000,68000,BSA,1000,390,96.5,45.5,78,32.5,22
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,19,42,PVP,,1,SLS-CNT,1,DMAc,22.7,1,BSA,1000,68000,BSA,1000,450,96,47,84,37,16
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,19,42,PVP,,1,SLS-CNT,1.5,DMAc,22.7,1,BSA,1000,68000,BSA,1000,495,95.8,49,90,41,10
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,HAp/AC,0,NMP,22.9,1,HA,100,,HA,100,143,59.3,42.6,67,7,33
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,0.5,NMP,22.9,1,HA,100,,HA,100,212.3,72.5,35.2,76.2,11.5,23.8
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,1,NMP,22.9,1,HA,100,,HA,100,352,85,53.8,82,34.6,18
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,2,NMP,22.9,1,HA,100,,HA,100,475,91,55.1,87.5,44,12.5
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,0,NMP,22.9,1,BSA,100,66000,BSA,100,143,86.6,56.3,53.3,7,46.7
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,0.5,NMP,22.9,1,BSA,100,66000,BSA,100,212.3,92.5,52.9,65,17.5,35
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,1,NMP,22.9,1,BSA,100,66000,BSA,100,352,98.5,54,73,37.5,27
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,2,NMP,22.9,1,BSA,100,66000,BSA,100,475,98.5,66.3,86.3,50,13.7
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,Hap-AC,4,NMP,22.9,1,BSA,100,66000,BSA,100,660,98.6,72.3,91.3,60,8.7
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,15,42,PVP,40000,3,Hap-BN,0,NMP,22.9,1,BSA,100,66000,BSA,100,286,90,60.8,47,7,53
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,15,42,PVP,40000,3,Hap-BN,1,NMP,22.9,1,BSA,100,66000,BSA,100,412.5,92,57,63,21,37
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,15,42,PVP,40000,3,Hap-BN,2,NMP,22.9,1,BSA,100,66000,BSA,100,620,91,51.6,73.7,42,26.3
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,15,42,PVP,40000,3,Hap-BN,4,NMP,22.9,1,BSA,100,66000,BSA,100,560,90,71.4,83,55,17
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,62000,16,42,PVP,30000,4,PDA-TA-g-HANTs,0,NMP,22.9,1,BSA,1000,67000,BSA,1000,150,95,80,55,21.3,45
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,62000,16,42,PVP,30000,4,PDA-TA-g-HANTs,0.1,NMP,22.9,1,BSA,1000,67000,BSA,1000,280,96,77.8,77.9,46.7,22.1
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,62000,16,42,PVP,30000,4,PDA-TA-g-HANTs,0.2,NMP,22.9,1,BSA,1000,67000,BSA,1000,380,97.5,73.6,75,42,25
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,62000,16,42,PVP,30000,4,PDA-TA-g-HANTs,0.3,NMP,22.9,1,BSA,1000,67000,BSA,1000,420,97.5,71.4,70,36,30
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,62000,16,42,PVP,30000,4,PDA-TA-g-HANTs,0.4,NMP,22.9,1,BSA,1000,67000,BSA,1000,335,97.5,67.2,66.5,28,33.5
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-g-HANTs,0,NMP,22.9,1,BSA,1000,67000,BSA,1000,152.8,95.7,38.75,68.75,30,31.25
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-g-HANTs,0.3,NMP,22.9,1,BSA,1000,67000,BSA,1000,397.2,94.3,48,83,35,17
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-PEI-g-HANTs,0.1,NMP,22.9,1,BSA,1000,67000,BSA,1000,302.1,94.8,45,75,30,25
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-PEI-g-HANTs,0.2,NMP,22.9,1,BSA,1000,67000,BSA,1000,434.5,94,46.5,79,32.5,21
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-PEI-g-HANTs,0.3,NMP,22.9,1,BSA,1000,67000,BSA,1000,481.6,94.5,50.5,90,39.5,10
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-PEI-g-HANTs,0.4,NMP,22.9,1,BSA,1000,67000,BSA,1000,460.4,94.1,50,87.5,37.5,12.5
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-g-HANTs,0,NMP,22.9,1,HA,1000,,HA,1000,152.8,98,44.1,76.3,32.2,23.7
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-g-HANTs,0.3,NMP,22.9,1,HA,1000,,HA,1000,397.2,98,52,87.5,35.5,12.5
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-PEI-g-HANTs,0.1,NMP,22.9,1,HA,1000,,HA,1000,302.1,98,48,80,32,20
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-PEI-g-HANTs,0.2,NMP,22.9,1,HA,1000,,HA,1000,434.5,98,49,84,35,16
+Carboxylic polysulfone,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(*)cc4C(=O)O)c(C(=O)O)c3)cc2)cc1,,17,,PVP,30000,4,PDA-PEI-g-HANTs,0.4,NMP,22.9,1,HA,1000,,HA,1000,460.4,98,53.8,90,36.2,10
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,ZnFe2O4,0,NMP,22.9,1,HA,50,,HA,50,240,65,47.9,65,12.5,35
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,ZnFe2O4,2,NMP,22.9,1,HA,50,,HA,50,365,82.5,52.1,72,29,28
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,PDA-ZnFe2O4,2,NMP,22.9,1,HA,50,,HA,50,500,94,60,90,49,10
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,65000,20,46.6,PEG,2000,2,TiO2 NPs-2,0,DMAc,22.7,1,BSA,100,67000,BSA,100,50,89.4,26,72,28.2,28
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,65000,18,46.6,PEG,2000,2,TiO2 NPs-2,2,DMAc,22.7,1,BSA,100,67000,BSA,100,118,94,41.7,72.5,27.8,27.5
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,65000,17,46.6,PEG,2000,2,TiO2 NPs-2,3,DMAc,22.7,1,BSA,100,67000,BSA,100,88,96,50.2,75.5,25.1,24.5
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,65000,18,46.6,PEG,2000,2,HEMA-TiO2,2,DMAc,22.7,1,BSA,100,67000,BSA,100,138,97.5,31.9,84,16.1,16
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,65000,17,46.6,PEG,2000,2,HEMA-TiO2,3,DMAc,22.7,1,BSA,100,67000,BSA,100,120,99,47.5,78,22.3,22
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,20,46.6,PEG,2000,2,TiO2 NPs-2,0,DMAc,22.7,1,EPS,10,10000,EPS,10,53,89,34,68,31.8,32
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,18,46.6,PEG,2000,2,TiO2 NPs-2,2,DMAc,22.7,1,EPS,10,10000,EPS,10,126,89,16.7,81,19.5,19
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,17,46.6,PEG,2000,2,TiO2 NPs-2,3,DMAc,22.7,1,EPS,10,10000,EPS,10,93,88,19.4,78,21.7,22
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,18,46.6,PEG,2000,2,HEMA-TiO2,2,DMAc,22.7,1,EPS,10,10000,EPS,10,138,87,27.5,82,18.3,18
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,17,46.6,PEG,2000,2,HEMA-TiO2,3,DMAc,22.7,1,EPS,10,10000,EPS,10,110,84,14.5,81,19.6,19
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.02,NMP,22.9,1,BSA,500,799.81,BSA,500,181.1,97,63.5,70,6.5,30
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.05,NMP,22.9,1,BSA,500,66000,BSA,500,166.5,97.5,77.5,85,7.5,15
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.15,NMP,22.9,1,BSA,500,66000,BSA,500,132.8,98,76.1,83,6.5,17
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.02,NMP,22.9,1,BSA,500,799.81,BSA,500,241.5,98.5,76.5,83.9,13,16.1
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.05,NMP,22.9,1,BSA,500,66000,BSA,500,291.9,98.5,70.9,84.2,11,15.8
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.15,NMP,22.9,1,BSA,500,66000,BSA,500,212.9,99,73.2,78,12,22
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0,NMP,22.9,1,MB,25,66000,BSA,500,182.9,88.2,61,67.2,6.2,32.8
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.1,NMP,22.9,1,MB,25,799.81,BSA,500,164.5,90.6,65,86.9,10.8,13.1
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.1,NMP,22.9,1,MB,25,66000,BSA,500,326.5,87,66,80,15,20
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0,NMP,22.9,1,MB,25,799.81,BSA,500,182.9,88.2,79.5,87,7.5,13
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.02,NMP,22.9,1,HA,25,,BSA,500,181.1,98,63.5,70,6.5,30
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.05,NMP,22.9,1,HA,25,,BSA,500,166.5,98.5,77.5,85,7.5,15
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.15,NMP,22.9,1,HA,25,,BSA,500,132.8,98.5,76.1,83,6.5,17
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.02,NMP,22.9,1,HA,25,,BSA,500,241.5,98.5,76.5,83.9,13,16.1
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.05,NMP,22.9,1,HA,25,,BSA,500,291.9,98.5,70.9,84.2,11,15.8
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.15,NMP,22.9,1,HA,25,,BSA,500,212.9,99,73.2,78,12,22
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0,NMP,22.9,1,Organge Ⅱ,25,350.32,BSA,500,182.9,32,61,67.2,6.2,32.8
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.1,NMP,22.9,1,Organge Ⅱ,25,350.32,BSA,500,164.5,31,65,86.9,10.8,13.1
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.1,NMP,22.9,1,Organge Ⅱ,25,350.32,BSA,500,326.5,36,66,80,15,20
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0,NMP,22.9,1,Safranine O,25,350.88,BSA,500,182.9,18,61,67.2,6.2,32.8
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,GO-2,0.1,NMP,22.9,1,Safranine O,25,350.88,BSA,500,164.5,21,65,86.9,10.8,13.1
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,35000,17,46.6,PVP,,3,PDA-rGO,0.1,NMP,22.9,1,Safranine O,25,350.88,BSA,500,326.5,22.5,66,80,15,20
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,15,46.6,PEG,400,10,none,0,NMP,22.9,1,BSA,1000,66000,BSA,1000,102.7,91,62.5,68.5,6,31.5
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,15,46.6,PEG,400,10,GO-3,1,NMP,22.9,1,BSA,1000,66000,BSA,1000,215.7,93,56.9,84.5,27.6,15.5
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,15,46.6,PEG,400,10,GO-3,2,NMP,22.9,1,BSA,1000,66000,BSA,1000,109.5,87.9,64.7,84.7,20,15.3
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,15,46.6,PEG,400,10,GO-7,2,NMP,22.9,1,BSA,1000,66000,BSA,1000,352.2,88.6,40.9,71.9,31,28.1
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,GO-4,0,NMP,22.9,1,BSA,500,66000,BSA,500,290,90,10.3,50.3,40,49.7
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,GO-4,0.8,NMP,22.9,1,BSA,500,66000,BSA,500,460,95,15.4,75.4,60,24.6
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,sulfonated-GO,0.4,NMP,22.9,1,BSA,500,66000,BSA,500,650,95.5,15.06,80.06,65,19.94
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,sulfonated-GO,0.8,NMP,22.9,1,BSA,500,66000,BSA,500,750,98,17.2,88.7,71.5,11.3
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,40000,1,sulfonated-GO,1.2,NMP,22.9,1,BSA,500,66000,BSA,500,700,98.8,14.02,82.02,68,17.98
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,0,NMP,22.9,1,BSA,100,66000,BSA,100,138,82.5,43,48,5,52
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,1,NMP,22.9,1,BSA,100,66000,BSA,100,209,88.5,45,60,15,40
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,3,NMP,22.9,1,BSA,100,66000,BSA,100,235,92,40.6,65.6,25,34.4
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,5,NMP,22.9,1,BSA,100,66000,BSA,100,190,96,44.5,77,32.5,23
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,0,NMP,22.9,1,HA,100,,HA,100,138,76.3,42.6,50.6,8,49.4
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,1,NMP,22.9,1,HA,100,,HA,100,209,85,52.4,69.4,17,30.6
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,3,NMP,22.9,1,HA,100,,HA,100,235,88,56.3,78.8,22.5,21.2
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,14,46.6,PVP,40000,6,TiO2-SO3H NTs,5,NMP,22.9,1,HA,100,,HA,100,190,89,62,90,28,10
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,18,42,PEG,400,10,mesoporous SiO2 NPs,0,NMP,24.8,2,BSA,1000,66000,BSA,1000,60,96,25.2,45.2,20,54.8
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,18,42,PEG,400,10,mesoporous SiO2 NPs,1,NMP,24.8,2,BSA,1000,66000,BSA,1000,72.5,96.8,36,60,24,40
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,18,42,PEG,400,10,mesoporous SiO2 NPs,2,NMP,24.8,2,BSA,1000,66000,BSA,1000,90.1,96.1,41.2,76.2,35,23.8
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,18,42,PEG,400,10,mesoporous SiO2 NPs,4,NMP,24.8,2,BSA,1000,66000,BSA,1000,67.5,97.2,35.3,50.3,15,49.7
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,17,42,PVP,,1,CQDs,0,NMP,22.7,1,BSA,1000,67000,BSA,1000,180,99.5,24,72,48,28
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,17,42,PVP,,1,CQDs,0.5,NMP,22.7,1,BSA,1000,67000,BSA,1000,370,99,44,90,46,10
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,18,42,PEG,1000,7,none,0,NMP,22.7,1.5,HA,500,,HA,500,183.3,94,24,69,45,31
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,15,42,PEG,1000,7,SPSF-DS10,0,NMP,22.7,1.5,HA,500,,HA,500,433.3,91.2,20,72,52,28
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,15,42,PEG,1000,7,SPSF-DS30,0,NMP,22.7,1.5,HA,500,,HA,500,350,93,33,79,46,21
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,,15,42,PEG,1000,7,SPSF-DS50,0,NMP,22.7,1.5,HA,500,,HA,500,380,81.5,34,82,48,18
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1.5,Fe2O3-Mn2O3 NPs,0,NMP,22.9,1,BSA,500,66000,BSA,500,200,97,24,40,64,60
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1.5,Fe2O3-Mn2O3 NPs,0.1,NMP,22.9,1,BSA,500,66000,BSA,500,312,96,29.5,42.5,72,57.5
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1.5,Fe2O3-Mn2O3 NPs,0.25,NMP,22.9,1,BSA,500,66000,BSA,500,398,96,30,47,77,53
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1.5,Fe2O3-Mn2O3 NPs,0.5,NMP,22.9,1,BSA,500,66000,BSA,500,337,96,17.5,45,62.5,55
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1.5,Fe2O3-Mn2O3 NPs,1,NMP,22.9,1,BSA,500,66000,BSA,500,285,96,17,43,60,57
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,15,,PVP,30000,0,TiO2 NPs-3,1.5,NMP,22.9,3.45,HA,500,,BSA,1000,29,97.53,22.3,49.1,26.8,50.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,12.5,,PVP,30000,2.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,HA,500,,BSA,1000,54.3,97.12,21.6,77.1,55.5,22.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,10,,PVP,30000,5,TiO2 NPs-3,1.5,NMP,22.9,3.45,HA,500,,BSA,1000,90.7,95.5,16.5,83.1,66.6,16.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,7.5,,PVP,30000,7.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,HA,500,,BSA,1000,75.4,98.71,17.5,82.3,64.8,17.7
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,5,,PVP,30000,10,TiO2 NPs-3,1.5,NMP,22.9,3.45,HA,500,,BSA,1000,68.8,99.59,22.8,74.5,51.7,25.5
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,15,,PVP,30000,0,TiO2 NPs-3,1.5,NMP,22.9,3.45,Safranin O,50,350.84,BSA,1000,29,89.42,22.3,49.1,26.8,50.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,12.5,,PVP,30000,2.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Safranin O,50,350.84,BSA,1000,54.3,86.78,21.6,77.1,55.5,22.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,10,,PVP,30000,5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Safranin O,50,350.84,BSA,1000,90.7,85.32,16.5,83.1,66.6,16.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,7.5,,PVP,30000,7.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Safranin O,50,350.84,BSA,1000,75.4,90.71,17.5,82.3,64.8,17.7
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,5,,PVP,30000,10,TiO2 NPs-3,1.5,NMP,22.9,3.45,Safranin O,50,350.84,BSA,1000,68.8,94.59,22.8,74.5,51.7,25.5
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,15,,PVP,30000,0,TiO2 NPs-3,1.5,NMP,22.9,3.45,Pepsin,1000,35000,BSA,1000,29,95,22.3,49.1,26.8,50.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,12.5,,PVP,30000,2.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Pepsin,1000,35000,BSA,1000,54.3,86,21.6,77.1,55.5,22.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,10,,PVP,30000,5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Pepsin,1000,35000,BSA,1000,90.7,81.5,16.5,83.1,66.6,16.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,7.5,,PVP,30000,7.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Pepsin,1000,35000,BSA,1000,75.4,80,17.5,82.3,64.8,17.7
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,5,,PVP,30000,10,TiO2 NPs-3,1.5,NMP,22.9,3.45,Pepsin,1000,35000,BSA,1000,68.8,81,22.8,74.5,51.7,25.5
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,15,,PVP,30000,0,TiO2 NPs-3,1.5,NMP,22.9,3.45,Trypsin,1000,20000,BSA,1000,29,93.75,22.3,49.1,26.8,50.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,12.5,,PVP,30000,2.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Trypsin,1000,20000,BSA,1000,54.3,87,21.6,77.1,55.5,22.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,10,,PVP,30000,5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Trypsin,1000,20000,BSA,1000,90.7,73,16.5,83.1,66.6,16.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,7.5,,PVP,30000,7.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Trypsin,1000,20000,BSA,1000,75.4,74,17.5,82.3,64.8,17.7
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,5,,PVP,30000,10,TiO2 NPs-3,1.5,NMP,22.9,3.45,Trypsin,1000,20000,BSA,1000,68.8,75,22.8,74.5,51.7,25.5
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,15,,PVP,30000,0,TiO2 NPs-3,1.5,NMP,22.9,3.45,Egg albumin ,1000,30000,BSA,1000,29,95.5,22.3,49.1,26.8,50.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,12.5,,PVP,30000,2.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Egg albumin ,1000,30000,BSA,1000,54.3,92,21.6,77.1,55.5,22.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,10,,PVP,30000,5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Egg albumin ,1000,30000,BSA,1000,90.7,85,16.5,83.1,66.6,16.9
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,7.5,,PVP,30000,7.5,TiO2 NPs-3,1.5,NMP,22.9,3.45,Egg albumin ,1000,30000,BSA,1000,75.4,85.5,17.5,82.3,64.8,17.7
+Poly(ether ether sulfone),*Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc(*)cc3)cc2)cc1,35000,5,,PVP,30000,10,TiO2 NPs-3,1.5,NMP,22.9,3.45,Egg albumin ,1000,30000,BSA,1000,68.8,86.2,22.8,74.5,51.7,25.5
+Polyvinyl chloride,*CC(*)Cl,48000,14,40,PVP,,1,HNTs,0,NMP,22.7,1.96,BSA,1000,67000,BSA,1000,65,75,59.09,77.23,18.14,22.77
+Polyvinyl chloride,*CC(*)Cl,48000,14,40,PVP,,1,HNTs,1,NMP,22.7,1.96,BSA,1000,67000,BSA,1000,81.2,90,66.67,83.33,16.66,16.67
+Polyvinyl chloride,*CC(*)Cl,48000,14,40,PVP,,1,HNTs,3,NMP,22.7,1.96,BSA,1000,67000,BSA,1000,83.9,99,66.67,86.66,19.99,13.34
+Polyvinyl chloride,*CC(*)Cl,48000,14,40,PVP,,1,CeO2-HNTs,0,NMP,22.7,1.96,HA,100,,HA,100,65,74.45,67.84,68.19,0.35,31.81
+Polyvinyl chloride,*CC(*)Cl,48000,14,40,PVP,,1,CeO2-HNTs,1,NMP,22.7,1.96,HA,100,,HA,100,81.6,92.5,80.39,87.97,7.58,12.03
+Polyvinyl chloride,*CC(*)Cl,48000,14,40,PVP,,1,CeO2-HNTs,3,NMP,22.7,1.96,HA,100,,HA,100,76.2,98.5,75.18,76.3,1.12,23.7
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,,6,TiO2 NPs-4,0,NMP,22.7,1.5,BSA,1000,67000,BSA,1000,66.7,86.2,5.8,76.3,70.5,23.7
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,,6,TiO2 NPs-4,3,NMP,22.7,1.5,BSA,1000,67000,BSA,1000,175,68.75,28,84.5,56.5,15.5
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,25000,4,amine-MWCNTs,0,NMP,22.7,3,BSA,500,66000,BSA,500,41.7,81,6.5,27,20.5,73
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,25000,4,amine-MWCNTs,0.05,NMP,22.7,3,BSA,500,66000,BSA,500,23.3,82.5,24.7,46,21.3,54
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,25000,4,amine-MWCNTs,0.5,NMP,22.7,3,BSA,500,66000,BSA,500,50,87,13.1,48,34.9,52
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,25000,4,amine-MWCNTs,1,NMP,22.7,3,BSA,500,66000,BSA,500,63.3,86.5,10.1,46,35.9,54
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,25000,4,amine-MWCNTs,2,NMP,22.7,3,BSA,500,66000,BSA,500,26.7,88,17.9,39,21.1,61
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,25000,1,PAA-g-MWCNT-TiO2,0.1,NMP,22.7,1,BSA,100,67000,BSA,1000,30,94.3,40,75,35,25
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,25000,1,PAA-g-MWCNT-TiO2,0.5,NMP,22.7,1,BSA,100,67000,BSA,1000,85,95,60,80,20,20
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,25000,1,PAA-g-MWCNT-TiO2,1,NMP,22.7,1,BSA,100,67000,BSA,1000,123.6,96.2,67.5,85,17.5,15
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,20,42,PVP,25000,1,PAA-g-MWCNT-TiO2,2,NMP,22.7,1,BSA,100,67000,BSA,1000,105,95.5,65,77.5,12.5,22.5
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,none,0,NMP,22.9,2,BSA,500,66000,BSA,500,106.6,90.2,30,69.3,39.3,30.7
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,ZnO NPs,0.3,NMP,22.9,2,BSA,500,66000,BSA,500,115.8,92.4,30.22,77.1,46.88,22.9
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,ZnO NPs,1,NMP,22.9,2,BSA,500,66000,BSA,500,133.45,95.1,32.97,85.8,52.83,14.2
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,ZnO NPs,2,NMP,22.9,2,BSA,500,66000,BSA,500,156.5,95.8,31.95,88.7,56.75,11.3
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,ZnO NPs,4,NMP,22.9,2,BSA,500,66000,BSA,500,189.35,95.6,29.57,88.2,58.63,11.8
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,none,0,NMP,22.9,2,BSA,100,66000,BSA,100,90,94.3,35.42,72,36.58,28
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,GO-SiO2-NH2,2,NMP,22.9,2,BSA,100,66000,BSA,100,142.5,94.2,30.26,76,45.74,24
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,GO-SiO2-NH2,4,NMP,22.9,2,BSA,100,66000,BSA,100,225,93.9,22.67,78.5,55.83,21.5
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,GO-SiO2-NH2,6,NMP,22.9,2,BSA,100,66000,BSA,100,270,92.8,27.07,82,54.93,18
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,GO-SiO2-NH2,8,NMP,22.9,2,BSA,100,66000,BSA,100,250,93,25.5,88.2,62.7,11.8
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,none,0,NMP,22.9,2,HA,100,,HA,100,90,97.5,39.89,76.5,36.61,23.5
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,GO-SiO2-NH2,2,NMP,22.9,2,HA,100,,HA,100,142.5,97.1,32.89,84,51.11,16
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,GO-SiO2-NH2,4,NMP,22.9,2,HA,100,,HA,100,225,98,25.82,88,62.18,12
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,GO-SiO2-NH2,6,NMP,22.9,2,HA,100,,HA,100,270,97,31.25,90,58.75,10
+Sulfonated polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1S(=O)(=O)O,58000,16,,PVP,40000,4,none,0,NMP,22.9,2,SA,100,,SA,100,90,91.6,43.75,83,39.25,17
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,none,0,NMP,22.9,2,BSA,250,66000,BSA,250,20.5,90.8,43.7,47.7,4,52.3
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,TiO2 NPs-5,1,NMP,22.9,2,BSA,250,66000,BSA,250,22,93.9,51.3,52.3,1,47.7
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,0.25,NMP,22.9,2,BSA,250,66000,BSA,250,27.5,98,54.1,56.6,2.5,43.4
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,0.5,NMP,22.9,2,BSA,250,66000,BSA,250,26,96.5,54.4,59.4,5,40.6
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,1,NMP,22.9,2,BSA,250,66000,BSA,250,30,96.1,54.9,59.4,4.5,40.6
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,2,NMP,22.9,2,BSA,250,66000,BSA,250,27.5,95.8,57.1,60.6,3.5,39.4
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,4,NMP,22.9,2,BSA,250,66000,BSA,250,27,95,58.9,64.9,6,35.1
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,none,0,NMP,22.9,2,Lanasol blue 3R,100,789.377,BSA,250,20.5,92.3,43.7,47.7,4,52.3
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,TiO2 NPs-5,1,NMP,22.9,2,Lanasol blue 3R,100,789.377,BSA,250,22,93,51.3,52.3,1,47.7
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,0.25,NMP,22.9,2,Lanasol blue 3R,100,789.377,BSA,250,27.5,95.2,54.1,56.6,2.5,43.4
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,0.5,NMP,22.9,2,Lanasol blue 3R,100,789.377,BSA,250,26,94,54.4,59.4,5,40.6
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,1,NMP,22.9,2,Lanasol blue 3R,100,789.377,BSA,250,30,95.1,54.9,59.4,4.5,40.6
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,2,NMP,22.9,2,Lanasol blue 3R,100,789.377,BSA,250,27.5,95.7,57.1,60.6,3.5,39.4
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,Ag-TiO2,4,NMP,22.9,2,Lanasol blue 3R,100,789.377,BSA,250,27,98.6,58.9,64.9,6,35.1
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,TiO2 NPs-5,0.2,NMP,22.9,2,BSA,500,66000,BSA,500,110.5,93,33.94,75,41.06,25
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,TiO2 NPs-5,0.5,NMP,22.9,2,BSA,500,66000,BSA,500,142,95,30.63,79,48.37,21
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,TiO2 NPs-5,1,NMP,22.9,2,BSA,500,66000,BSA,500,161.5,96,26.93,84,57.07,16
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,TiO2 NPs-5,2,NMP,22.9,2,BSA,500,66000,BSA,500,217.5,98,25.97,89,63.03,11
+Polyvinyl chloride,*CC(*)Cl,,15,40,PEG,6000,4,TiO2 NPs-5,4,NMP,22.9,2,BSA,500,66000,BSA,500,201.5,95.5,24.81,86,61.19,14
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,none,0,NMP,22.9,1,HA,100,,HA,100,193.9,42.5,58,73,15,27
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,1,NMP,22.9,1,HA,100,,HA,100,448.9,64,33.5,83.5,50,16.5
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,2,NMP,22.9,1,HA,100,,HA,100,515.8,72.5,37,89,52,11
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,none,0,NMP,22.9,1,BSA,100,66000,BSA,100,193.9,46,48.75,61.25,12.5,38.75
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,1,NMP,22.9,1,BSA,100,66000,BSA,100,448.9,66,27.5,70,42.5,30
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,2,NMP,22.9,1,BSA,100,66000,BSA,100,515.8,76,31.2,76.2,45,23.8
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,4,NMP,22.9,1,BSA,100,66000,BSA,100,475.6,82.5,30,80,50,20
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,none,0,NMP,22.9,1,SA,100,,SA,100,193.9,35,69,74,5,26
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,1,NMP,22.9,1,SA,100,,SA,100,448.9,55,39,77,38,23
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,2,NMP,22.9,1,SA,100,,SA,100,515.8,62.5,40,83,43,17
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,2,SPDA,4,NMP,22.9,1,SA,100,,SA,100,475.6,70,39.5,87.5,48,12.5
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,,1,none,0,NMP,22.7,1,BSA,100,66000,BSA,1000,59.7,71.4,12.5,32.5,20,67.5
+Polyvinylidene fluoride,*CC(*)(F)F,,15,29.2,PVP,,1,OMWCNTs,1,NMP,22.7,1,BSA,100,66000,BSA,1000,120,93.1,32,80,48,20
+Polyvinylidene fluoride,*CC(*)(F)F,470000,13,29.2,none,,0,none,0,NMP,22.7,1,BSA,100,68000,BSA,100,14.8,98.5,49.05,65.5,16.45,34.5
+Polyvinylidene fluoride,*CC(*)(F)F,470000,13,29.2,none,,0,GO-6,0.5,NMP,22.7,1,BSA,100,68000,BSA,100,18.6,98.5,58.44,73,14.56,27
+Polyvinylidene fluoride,*CC(*)(F)F,470000,13,29.2,none,,0,GO-6,1,NMP,22.7,1,BSA,100,68000,BSA,100,25.55,98.5,53.27,79.5,26.23,20.5
+Polyvinylidene fluoride,*CC(*)(F)F,470000,13,29.2,none,,0,GO-6,2,NMP,22.7,1,BSA,100,68000,BSA,100,26.49,98.5,53.64,88.56,34.92,11.44
+poly(m-phenylene isophthalamide),*Nc1cccc(NC(=O)c2cccc(C(*)=O)c2)c1,200000,12,,none,,0,LiCl,5,NMP,22.7,1,BSA,1000,68000,BSA,1000,345.48,95.62,34.73,82.7,47.97,17.3
+poly(m-phenylene isophthalamide),*Nc1cccc(NC(=O)c2cccc(C(*)=O)c2)c1,200000,12,,Pluronic F127,12600,0.5,LiCl,5,NMP,22.7,1,BSA,1000,68000,BSA,1000,420,95,30.95,82.5,51.55,17.5
+poly(m-phenylene isophthalamide),*Nc1cccc(NC(=O)c2cccc(C(*)=O)c2)c1,200000,12,,Pluronic F127,12600,1,LiCl,5,NMP,22.7,1,BSA,1000,68000,BSA,1000,500,93.5,30,84,54,16
+poly(m-phenylene isophthalamide),*Nc1cccc(NC(=O)c2cccc(C(*)=O)c2)c1,200000,12,,Pluronic F127,12600,1.5,LiCl,5,NMP,22.7,1,BSA,1000,68000,BSA,1000,600,92.5,31.17,90,58.83,10
+poly(m-phenylene isophthalamide),*Nc1cccc(NC(=O)c2cccc(C(*)=O)c2)c1,200000,12,,Pluronic F127,12600,2,LiCl,5,NMP,22.7,1,BSA,1000,68000,BSA,1000,750,92,28,81,53,19
+poly(m-phenylene isophthalamide),*Nc1cccc(NC(=O)c2cccc(C(*)=O)c2)c1,200000,12,,Pluronic F127,12600,2.5,LiCl,5,NMP,22.7,1,BSA,1000,68000,BSA,1000,809.06,91.77,28.43,79.5,51.07,20.5
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z1),0.02,NMP,22.7,2,BSA,500,66000,BSA,500,97.5,98.5,40.25,71.25,31,28.75
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z1),0.05,NMP,22.7,2,BSA,500,66000,BSA,500,131,98.5,45,76,31,24
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z1),0.1,NMP,22.7,2,BSA,500,66000,BSA,500,155.5,98.5,48.87,76.87,28,23.13
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z1),0.2,NMP,22.7,2,BSA,500,66000,BSA,500,139,98.5,46.37,78.37,32,21.63
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z1),0.5,NMP,22.7,2,BSA,500,66000,BSA,500,122.5,98.5,44.7,73.2,28.5,26.8
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z1),1,NMP,22.7,2,BSA,500,66000,BSA,500,102.5,98.5,40,68,28,32
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z2),0.02,NMP,22.7,2,BSA,500,66000,BSA,500,87.5,98.5,41.25,63.75,22.5,36.25
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z2),0.05,NMP,22.7,2,BSA,500,66000,BSA,500,107.5,98.5,47.4,69.4,22,30.6
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z2),0.1,NMP,22.7,2,BSA,500,66000,BSA,500,124,98.5,43.5,71.5,28,28.5
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z2),0.2,NMP,22.7,2,BSA,500,66000,BSA,500,128,98.5,46,77,31,23
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z2),0.5,NMP,22.7,2,BSA,500,66000,BSA,500,110,98.5,43.25,71.25,28,28.75
+Polyvinylidene fluoride,*CC(*)(F)F,,18,29.2,PVP,29000,1,ZIF-8 (Z2),1,NMP,22.7,2,BSA,500,66000,BSA,500,92.5,98.5,42.5,67.5,25,32.5
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,22000,16.5,46.6,PVP,,0.5,none,0,NMP,,1,HA,20,,HA,20,86,87.5,19.7,34.2,14.5,65.8
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,22000,16.5,46.6,PVP,,0.5,UiO-66-2,0.1,NMP,,1,HA,20,,HA,20,130,93.12,16,48.7,32.7,51.3
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,22000,16.5,46.6,PVP,,0.5,UiO-66-2,0.3,NMP,,1,HA,20,,HA,20,165,95.62,13.6,59.5,45.9,40.5
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,22000,16.5,46.6,PVP,,0.5,UiO-66-2,0.6,NMP,,1,HA,20,,HA,20,210,98.5,5.2,87.7,82.5,12.3
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,22000,16.5,46.6,PVP,,0.5,UiO-66-2,0.9,NMP,,1,HA,20,,HA,20,180,98.12,8,78.7,70.7,21.3
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,none,0,NMP,22.9,1,BSA,500,68000,BSA,500,142.8,68,36.2,51.2,15,48.8
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,GO-8,0.5,NMP,22.9,1,BSA,500,68000,BSA,500,180,81.7,46.5,62,15.5,38
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,GO-8,1,NMP,22.9,1,BSA,500,68000,BSA,500,195,83,54.5,72,17.5,28
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,GO-8,1.5,NMP,22.9,1,BSA,500,68000,BSA,500,170,81.2,48.5,61,12.5,39
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,UiO-66-3,1,NMP,22.9,1,BSA,500,68000,BSA,500,181.25,82.5,52.5,64.5,12,35.5
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,GO-UiO-66,0.5,NMP,22.9,1,BSA,500,68000,BSA,500,212.5,84,50,66,16,34
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,GO-UiO-66,1,NMP,22.9,1,BSA,500,68000,BSA,500,262.5,93,56.5,82,25.5,18
+Polyvinylidene fluoride,*CC(*)(F)F,400000,15,29.2,PVP,40000,1,GO-UiO-66,1.5,NMP,22.9,1,BSA,500,68000,BSA,500,233.5,86.25,55,70,15,30
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,18,46.6,PVP,,1,none,0,NMP,22.7,1,BSA,200,66000,BSA,200,98,92,73.6,80,6.4,20
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,18,46.6,PVP,,1,DPPA-GO,0.1,NMP,22.7,1,BSA,200,66000,BSA,200,187,96,60,80,20,20
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,18,46.6,PVP,,1,DPPA-GO,0.3,NMP,22.7,1,BSA,200,66000,BSA,200,213,96,62.74,76.47,13.73,23.53
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,18,46.6,PVP,,1,DPPA-GO,0.5,NMP,22.7,1,BSA,200,66000,BSA,200,245.1,95.8,53.95,77.19,23.24,22.81
+Polysulfone,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,,18,46.6,PVP,,1,DPPA-GO,1,NMP,22.7,1,BSA,200,66000,BSA,200,235,94.5,41.95,70.27,28.32,29.73
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1,none,0,NMP,22.9,1,BSA,500,66000,BSA,500,139.3,95.5,12,72,60,28
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1,QSiPD-rGO,1,NMP,22.9,1,BSA,500,66000,BSA,500,162.5,98.67,13.5,75,61.5,25
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1,QSiPD-rGO,2,NMP,22.9,1,BSA,500,66000,BSA,500,212.5,99.2,14.3,78.3,64,21.7
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1,QSiPD-rGO,4,NMP,22.9,1,BSA,500,66000,BSA,500,218,99,14,79,65,21
+Polyethersulfone,*Oc1ccc(S(=O)(=O)c2ccc(*)cc2)cc1,58000,16,42,PVP,40000,1,QSiPD-rGO,6,NMP,22.9,1,BSA,500,66000,BSA,500,269.4,98.1,17.5,85,67.5,15
+Polyvinylidene fluoride,*CC(*)(F)F,,16,29.2,PVP,,3,GO-9,0.5,NMP,22.7,1,BSA,500,66000,BSA,500,570,88.5,24.39,88.9,64.51,11.1
+Polyvinylidene fluoride,*CC(*)(F)F,,16,29.2,PVP,,3,PFSA,0.5,NMP,22.7,1,BSA,500,66000,BSA,500,450,88,26.67,83.1,56.43,16.9
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,30000,16,63.55,PEG,400,2,CNC-2,3,NMP,24.8,2,BSA,200,68000,BSA,1000,10,92,75,83,8,17
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,30000,16,63.55,PEG,400,2,CNC-2,5,NMP,24.8,2,BSA,200,68000,BSA,1000,20,92.5,83.5,89.5,6,10.5
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,30000,16,63.55,PEG,400,2,CNC-2,15,NMP,24.8,2,BSA,200,68000,BSA,1000,90,90,62,83,21,17
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,15,63.55,PVP,25000,2,none,0,NMP,22.9,1,BSA,1000,68000,BSA,1000,46.25,92,25.18,60.18,35,39.82
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,15,63.55,PVP,25000,2,CNC-3,0.5,NMP,22.9,1,BSA,1000,68000,BSA,1000,77,97,30,68,38,32
+Cellulose acetate,CC(=O)OC[C@H]1O[C@@H](O*)[C@H](OC(C)=O)[C@@H](O)[C@@H]1O*,,15,63.55,PVP,25000,2,CNC-3,1.2,NMP,22.9,1,BSA,1000,68000,BSA,1000,15,95,30.24,72.24,42,27.76
+Polyvinyl chloride,*CC(*)Cl,90000,17,40,PEG,2000,5,none,0,NMP,22.9,2,BSA,1000,68000,BSA,1000,80.8,84.94,39.67,70,30.33,30

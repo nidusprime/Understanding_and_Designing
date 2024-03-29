@@ -1,0 +1,302 @@
+﻿polymer, polymer  SMILES string,polymer MW (g/mol),polymer wt%,intrinsic viscosity (dl/g),polymer surface tension (mN/m),pore maker ,pore maker molecular weight (Da),pore maker wt% (pore maker weight to total weight),additive,additive wt% (additive weight to polymer),organic solvent,solubility parameter (MPa1/2),mean pore radius (nm),overall porosity (%),contact angle (degree)
+Polyphenylsulfone,,,15,,,PEG,1000,6,none,0,DMAc,22.7,16.7,30.8,93.4
+Polyphenylsulfone,,,15,,,PEG,1000,6,GO-1,0.5,DMAc,22.7,20.4,49.6,81.1
+Polyphenylsulfone,,,15,,,PEG,1000,6,GO-1,1,DMAc,22.7,25.9,57.2,73.7
+Polyphenylsulfone,,,15,,,PEG,1000,6,GO-1,1.5,DMAc,22.7,30.1,63.7,67.1
+Polyphenylsulfone,,,15,,,PEG,1000,6,GO-1,2,DMAc,22.7,48.3,76.8,65
+Polyethersulfone,,58000,15,0.41,42,none,,0,CNC-1,0,DMF,24.8,68.2,61,63
+Polyethersulfone,,58000,15,0.41,42,none,,0,CNC-1,0.075,DMF,24.8,68.8,68,60.4
+Polyethersulfone,,58000,15,0.41,42,none,,0,CNC-1,0.12,DMF,24.8,69.1,71,54.3
+Polyethersulfone,,58000,15,0.41,42,none,,0,CNC-1,0.15,DMF,24.8,69.2,72,51.9
+Polyethersulfone,,58000,15,0.41,42,none,,0,CNC-1,0.3,DMF,24.8,69.3,72,50.1
+Polyethersulfone,,58000,15,0.41,42,none,,0,CNC-1,0.75,DMF,24.8,64.2,73,48.2
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc10,35000,16,0.408,46.6,none,,0,Arabic Gum,0,DMAc,22.7,24,53,85
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc12,35000,16,0.408,46.6,none,,0,Arabic Gum,1,DMAc,22.7,36,62,59
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc13,35000,16,0.408,46.6,none,,0,Arabic Gum,3,DMAc,22.7,37,65,58
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc14,35000,16,0.408,46.6,none,,0,Arabic Gum,5,DMAc,22.7,35,64,50
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc15,35000,16,0.408,46.6,none,,0,Arabic Gum,7,DMAc,22.7,30,58,47
+Polyethersulfone,,,20,0.41,42,none,,0,TiO2 NPs-1,0.4,NMP,22.9,6,66.6,44.1
+Polyethersulfone,,,20,0.41,42,none,,0,Al2O3 NPs-1,0.4,NMP,22.9,6,62.1,37.8
+Polyethersulfone,,,20,0.41,42,none,,0,ZrO2 NPs,0.4,NMP,22.9,6,64.3,48.6
+Polyvinylidene fluoride,FC(F)=C,475637,20,1.22,29.2,none,,0,PVP-g-MMT,0,DMAC,22.7,14.44,55.3,88.9
+Polyvinylidene fluoride,FC(F)=C,475637,20,1.22,29.2,none,,0,PVP-g-MMT,1,DMAC,22.7,15.06,79.6,82.6
+Polyvinylidene fluoride,FC(F)=C,475637,20,1.22,29.2,none,,0,PVP-g-MMT,2,DMAC,22.7,15.77,76.3,81.3
+Polyvinylidene fluoride,FC(F)=C,475637,20,1.22,29.2,none,,0,PVP-g-MMT,4,DMAC,22.7,15.79,76.1,76.9
+Polyvinylidene fluoride,FC(F)=C,475637,20,1.22,29.2,none,,0,PVP-g-MMT,6,DMAC,22.7,14.71,81.3,77.4
+Polyvinyl chloride,ClC=C,,15,0.84,40,PEG,6000,4,ZnO NPs-1,0,NMP,22.9,9.3,67.9,67.5
+Polyvinyl chloride,ClC=C,,15,0.84,40,PEG,6000,4,ZnO NPs-1,0.3,NMP,22.9,9.8,70.5,65.4
+Polyvinyl chloride,ClC=C,,15,0.84,40,PEG,6000,4,ZnO NPs-1,1,NMP,22.9,10.5,75.1,62.1
+Polyvinyl chloride,ClC=C,,15,0.84,40,PEG,6000,4,ZnO NPs-1,2,NMP,22.9,11.2,77.3,57.8
+Polyvinyl chloride,ClC=C,,15,0.84,40,PEG,6000,4,ZnO NPs-1,3,NMP,22.9,12.1,79.8,54.5
+Polyvinyl chloride,ClC=C,,15,0.84,40,PEG,6000,4,ZnO NPs-1,4,NMP,22.9,11.5,76.2,52.2
+Polyethersulfone,,,,0.41,42,PVP,,8, SiO2/N-Halamine,0,DMAc,22.7,35.09,58.6,90.7
+Polyethersulfone,,,,0.41,42,PVP,,8, SiO2/N-Halamine,2.5,DMAc,22.7,42.91,59.1,77
+Polyethersulfone,,,,0.41,42,PVP,,8, SiO2/N-Halamine,5,DMAc,22.7,48.73,59.5,72
+Polyethersulfone,,,,0.41,42,PVP,,8, SiO2/N-Halamine,7.5,DMAc,22.7,32.04,58.9,68
+Polyvinylidene fluoride,FC(F)=C,,14,1.22,29.2,none,,0,none,0,DMF,24.8,12.5,30,81.28
+Polyvinylidene fluoride,FC(F)=C,,13.3,1.22,29.2,none,,0,CNC-2,0.7,DMF,24.8,17,35,73.95
+Polyvinylidene fluoride,FC(F)=C,,12.6,1.22,29.2,none,,0,CNC-2,1.4,DMF,24.8,24,40,78.55
+Polyvinylidene fluoride,FC(F)=C,,11.2,1.22,29.2,none,,0,CNC-2,2.8,DMF,24.8,25,50,79.37
+Polyvinylidene fluoride,FC(F)=C,,9.8,1.22,29.2,none,,0,CNC-2,4.2,DMF,24.8,32,70,82.95
+Polyethersulfone,,58000,21,0.41,42,PVP,58000,1,g-C3N4-1,0.05,DMAc,22.7,3.7,69.3,60.2
+Polyethersulfone,,58000,21,0.41,42,PVP58000,58000,1,g-C3N4-1,0.1,DMAc,22.7,3.3,72.5,57.1
+Polyethersulfone,,58000,21,0.41,42,PVP58000,58000,1,g-C3N4-1,0.25,DMAc,22.7,3.8,73.4,54.4
+Polyethersulfone,,58000,21,0.41,42,PVP58000,58000,1,g-C3N4-1,0.5,DMAc,22.7,4.1,75.6,53.2
+Polyethersulfone,,58000,21,0.41,42,PVP58000,58000,1,g-C3N4-1,1,DMAc,22.7,5.3,78.8,52.4
+Polyethersulfone,,58000,21,0.41,42,PVP58000,58000,1,g-C3N4-1,2,DMAc,22.7,4.1,72.6,51.8
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,16,0.408,46.6,Arabic Gum ,250000,0.1,none,0,DMAC,22.7,51,57,73
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,16,0.408,46.6,Arabic Gum ,250000,0.5,none,0,DMAC,22.7,55,58,67
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,16,0.408,46.6,Arabic Gum ,250000,1,none,0,DMAC,22.7,60,62,51
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,16,0.408,46.6,Arabic Gum ,250000,1.5,none,0,DMAC,22.7,50.5,66,47
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,16,0.408,46.6,Arabic Gum ,250000,2,none,0,DMAC,22.7,46,68,43
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,16,0.408,46.6,Arabic Gum ,250000,3,none,0,DMAC,22.7,37,66.5,40
+Polyethersulfone,,,18,0.41,42,none,,0,none,0,NMP,22.9,11.6,80.2,68
+Polyethersulfone,,,18,0.41,42,none,,0,TiO2-SO3H,2,NMP,22.9,16.6,75.3,52
+Polyethersulfone,,,18,0.41,42,none,,0,TiO2 NPs-2,2,NMP,22.9,14.9,73.9,56
+Polyethersulfone,,51000,16,0.41,42,none,,0,none,0,DMAc,22.7,21.6,72.3,80
+Sulfonated polyethersulfone,,,16,,,none,,0,none,0,DMAc,22.7,21.9,76.2,60
+Sulfonated polyethersulfone,,,16,,,none,,0,UiO-66-NH2,5,DMAc,22.7,20.7,78.6,26.2
+Sulfonated polyethersulfone,,,16,,,none,,0,UiO-66-NH2,10,DMAc,22.7,20.8,79,21.3
+Polyethersulfone,,51000,16,0.41,42,none,,0,UiO-66-NH2,5,DMAc,22.7,20.4,76.1,44
+Polyethersulfone,,51000,16,0.41,42,none,,0,UiO-66-NH2,10,DMAc,22.7,15.9,71.1,34.7
+Sulfonated polyethersulfone,,51000,16,,,none,,0,UiO-66-1,5,DMAc,22.7,20.5,76.5,36
+Sulfonated polyethersulfone,,51000,16,,,none,,0,UiO-66-1,10,DMAc,22.7,20.8,76.9,34
+Polyethersulfone,,51000,16,0.41,42,none,,0,UiO-66-1,5,DMAc,22.7,21.5,76.6,50
+Polyethersulfone,,51000,16,0.41,42,none,,0,UiO-66-1,10,DMAc,22.7,21.3,77.5,47
+Polyethersulfone,,58000,14,0.41,42,none,,0,none,0,DMSO,26.7,17.03,56.83,75.42
+Polyethersulfone,,58000,14,0.41,42,none,,0,g-C3N4-2,0.5,DMSO,26.7,18.03,80.46,74.2
+Polyethersulfone,,58000,14,0.41,42,none,,0,g-C3N4-2,1,DMSO,26.7,25.83,80.63,70.54
+Polyethersulfone,,58000,14,0.41,42,none,,0,g-C3N4-2,2,DMSO,26.7,27.03,81.83,67.54
+Polyethersulfone,,58000,20,0.41,42,PVP,,5,none,0,DMF,24.8,4.6,73,78.75
+Polyethersulfone,,58000,20,0.41,42,PVP,,5,PMO-SO3H/SiO2-NR,1,DMF,24.8,6.3,76,71.25
+Polyethersulfone,,58000,20,0.41,42,PVP,,5,PMO-SO3H/SiO2-NR,3,DMF,24.8,8.5,81,60
+Polyethersulfone,,58000,20,0.41,42,PVP,,5,PMO-SO3H/SiO2-NR,5,DMF,24.8,7.8,79,56.25
+Polyethersulfone,,58000,20,0.41,42,PVP,,5,SiO2-PMO,3,DMF,24.8,8,81,58
+Polyvinylidene fluoride,FC(F)=C,470000,14,1.22,29.2,none,,0,none,0,DMF,24.8,8.2,65,82.3
+Polyvinylidene fluoride,FC(F)=C,470000,14,1.22,29.2,none,,0,rGO,1.5,DMF,24.8,9.1,70.5,77.6
+Polyvinylidene fluoride,FC(F)=C,470000,14,1.22,29.2,none,,0,PDAAQ,1.5,DMF,24.8,10.6,74.6,74.7
+Polyvinylidene fluoride,FC(F)=C,470000,14,1.22,29.2,none,,0,PDAAQ/rGO,0.5,DMF,24.8,9.9,72.5,71.4
+Polyvinylidene fluoride,FC(F)=C,470000,14,1.22,29.2,none,,0,PDAAQ/rGO,1,DMF,24.8,10.2,73.8,71.1
+Polyvinylidene fluoride,FC(F)=C,470000,14,1.22,29.2,none,,0,PDAAQ/rGO,1.5,DMF,24.8,10.9,76.7,69.8
+Polyvinylidene fluoride,FC(F)=C,470000,14,1.22,29.2,none,,0,PDAAQ/rGO,2,DMF,24.8,9.8,72.2,72.2
+Polyphenylsulfone,,53000-59000,15,,,none,,0,none,0,NMP,22.9,33,41.7,72
+Polyphenylsulfone,,53000-59000,15,,,none,,0,CuO/gC3N4,0.5,NMP,22.9,35,70.7,53
+Polyphenylsulfone,,53000-59000,15,,,none,,0,CuO/gC3N4,0.7,NMP,22.9,31,63.5,51
+Polyphenylsulfone,,53000-59000,15,,,none,,0,CuO/gC3N4,1,NMP,22.9,26,60.6,48
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,12,0.408,46.6,none,,0,none,0,NMP,22.9,7.94,61.2,78.6
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,12,0.408,46.6,none,,0,hZIF-8,1,NMP,22.9,8.93,66.5,70.1
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,12,0.408,46.6,none,,0,hZIF-8,2,NMP,22.9,10.11,71.4,62.4
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,12,0.408,46.6,none,,0,hZIF-8,3,NMP,22.9,9.39,68.8,60.7
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,12,0.408,46.6,none,,0,ZIF-8,2,NMP,22.9,7.8,59.2,79.8
+Polyethersulfone,,,20,0.41,42,PVP,,1,MoS2,0,DMAc,22.7,11.2,44.4,69.2
+Polyethersulfone,,,20,0.41,42,PVP,,1,MoS2,0.1,DMAc,22.7,12.8,51.7,68.1
+Polyethersulfone,,,20,0.41,42,PVP,,1,MoS2,0.2,DMAc,22.7,15.2,59.1,64.9
+Polyethersulfone,,,20,0.41,42,PVP,,1,MoS2,0.35,DMAc,22.7,14.3,56.6,61.9
+Polyethersulfone,,,20,0.41,42,PVP,,1,MoS2,0.5,DMAc,22.7,12.4,54.2,58.1
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,GO-2,0,DMAc,22.7,3.2,73.2,65.2
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,GO-2,0.1,DMAc,22.7,3.8,78.2,58.6
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,GO-2,0.5,DMAc,22.7,4.5,83.1,53.2
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,GO-2,1,DMAc,22.7,3.8,79.2,55.3
+Polyethersulfone,,58000,18,0.41,42,none,,0,HPEI-GO,0,DMAc+Acetone,,35.09,59.3,85
+Polyethersulfone,,58000,18,0.41,42,none,,1,HPEI-GO,1,DMAc+Acetone,,34.61,55.3,75
+Polyethersulfone,,58000,18,0.41,42,none,,2,HPEI-GO,3,DMAc+Acetone,,36.26,49.6,68
+Polyethersulfone,,58000,18,0.41,42,none,,3,HPEI-GO,5,DMAc+Acetone,,36.42,47.2,63
+Polyethersulfone,,58000,18,0.41,42,PVP,10000,1.5,ZnO NPs-2,0,DMAc,22.7,42.98,15.69,70.9
+Polyethersulfone,,58000,18,0.41,42,PVP,10000,1.5,ZnO NPs-2,1,DMAc,22.7,42.92,32.63,65.9
+Polyethersulfone,,58000,18,0.41,42,PVP,10000,1.5,MWCNT,1,DMAc,22.7,55.75,53.24,55.4
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,none,0,NMP,22.9,50,75.4,78
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,CNT-1,1,NMP,22.9,55,81,54
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,CNT-SO3H,1,NMP,22.9,60,84,51
+Polyethersulfone,,58000,19,0.41,42,PVP,,1,none,0,DMAc,22.7,35,66,78
+Polyethersulfone,,58000,19,0.41,42,PVP,,1,CNT,1.5,DMAc,22.7,42.5,70,82.5
+Polyethersulfone,,58000,19,0.41,42,PVP,,1,SLS-CNT,0.5,DMAc,22.7,52.5,72,75
+Polyethersulfone,,58000,19,0.41,42,PVP,,1,SLS-CNT,1,DMAc,22.7,55,73,72
+Polyethersulfone,,58000,19,0.41,42,PVP,,1,SLS-CNT,1.5,DMAc,22.7,60,74,70
+Polyethersulfone,,58000,19,0.41,42,PVP,,1,SLS-CNT,2,DMAc,22.7,63,75,57.5
+Polyethersulfone,,58000,19,0.41,42,PVP,,1,SLS-CNT,2.5,DMAc,22.7,59,72.5,65
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,none,0,NMP,22.9,42.5,55,69.2
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,HAp/AC,0.5,NMP,22.9,54,57,63
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,HAp/AC,1,NMP,22.9,68,58,55
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,HAp/AC,2,NMP,22.9,75,63,48
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,HAp/AC,4,NMP,22.9,88,65,42
+Polyethersulfone,,58000,15,0.41,42,PVP,40000,3,none,0,NMP,22.9,54,63.7,68.3
+Polyethersulfone,,58000,15,0.41,42,PVP,40000,3,HAp/BN,1,NMP,22.9,60.1,66.3,56
+Polyethersulfone,,58000,15,0.41,42,PVP,40000,3,HAp/BN,2,NMP,22.9,66.7,70.5,50
+Polyethersulfone,,58000,15,0.41,42,PVP,40000,3,HAp/BN,4,NMP,22.9,65.5,67.3,46.1
+Polyethersulfone,,62000-64000,16,0.41,42,PVP,30000,4,none,0,NMP,22.9,34.1,55.4,83.75
+Polyethersulfone,,62000-64000,16,0.41,42,PVP,30000,4,HANTs-DA-TA,0.1,NMP,22.9,40.1,64.3,76.25
+Polyethersulfone,,62000-64000,16,0.41,42,PVP,30000,4,HANTs-DA-TA,0.2,NMP,22.9,44.6,69.7,71.25
+Polyethersulfone,,62000-64000,16,0.41,42,PVP,30000,4,HANTs-DA-TA,0.3,NMP,22.9,43.2,73.6,67.5
+Polyethersulfone,,62000-64000,16,0.41,42,PVP,30000,4,HANTs-DA-TA,0.4,NMP,22.9,41.6,67.8,64
+Sulfonated polyethersulfone,,58000,16,,,PVP,40000,4,none,0,NMP,22.9,9.1,69.4,70
+Sulfonated polyethersulfone,,58000,16,,,PVP,40000,4,GO-SiO2-NH2,2,NMP,22.9,11.2,72.3,65
+Sulfonated polyethersulfone,,58000,16,,,PVP,40000,4,GO-SiO2-NH2,4,NMP,22.9,12.9,74.4,59
+Sulfonated polyethersulfone,,58000,16,,,PVP,40000,4,GO-SiO2-NH2,6,NMP,22.9,14.3,82.1,52
+Sulfonated polyethersulfone,,58000,16,,,PVP,40000,4,GO-SiO2-NH2,8,NMP,22.9,13.2,78.2,50
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,none,0,NMP,22.9,50,62,70
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,ZnFe2O4,2,NMP,22.9,62,63,60
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,PDA-g-ZnFe2O4,2,NMP,22.9,62.5,75.2,55
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,PDA-g-ZnFe2O4,4,NMP,22.9,70,79.5,52
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,20,0.408,46.6,PEG,2000,2,none,0,DMAc,22.7,11.25,68,86.5
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,19.5,0.408,46.6,PEG,2000,2,TiO2 NPs-3,0.5,DMAc,22.7,16,72,83.5
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,19,0.408,46.6,PEG,2000,2,TiO2 NPs-3,1,DMAc,22.7,17.5,76,79
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PEG,2000,2,TiO2 NPs-3,2,DMAc,22.7,20,77.5,74.5
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,17,0.408,46.6,PEG,2000,2,TiO2 NPs-3,3,DMAc,22.7,18,75,82
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,19.5,0.408,46.6,PEG,2000,2,HEMA-TiO2,0.5,DMAc,22.7,17.6,74,81.5
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,19,0.408,46.6,PEG,2000,2,HEMA-TiO2,1,DMAc,22.7,18,76,76
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PEG,2000,2,HEMA-TiO2,2,DMAc,22.7,23,78,72
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,17,0.408,46.6,PEG,2000,2,HEMA-TiO2,3,DMAc,22.7,20.5,76,78
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,none,0,NMP,22.9,37.5,81.2,84.4
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,GO-4,0.02,NMP,22.9,33.7,86.6,79.2
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,GO-4,0.05,NMP,22.9,34.4,85.5,77.2
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,GO-4,0.1,NMP,22.9,36.9,82.9,79.5
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,GO-4,0.15,NMP,22.9,33,79.9,75.5
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,PDA-rGO,0.02,NMP,22.9,37.5,87.7,74.6
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,PDA-rGO,0.05,NMP,22.9,48.2,79,73.2
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,PDA-rGO,0.1,NMP,22.9,50.6,80.5,74.6
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,35000,17,0.408,46.6,PVP,,3,PDA-rGO,0.15,NMP,22.9,42.7,78.7,74.3
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,15,0.408,46.6,PEG,400,10,none,0,NMP,22.9,2.7,25.1,67.9
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,15,0.408,46.6,PEG,400,10,GO-3,1,NMP,22.9,3.9,34.1,61.8
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,15,0.408,46.6,PEG,400,10,GO-3,2,NMP,22.9,3.2,38.4,62.7
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,15,0.408,46.6,PEG,400,10,GO-7,1,NMP,22.9,3.7,36.4,58.2
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,15,0.408,46.6,PEG,400,10,GO-7,2,NMP,22.9,4.1,42.5,56
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,none,0,NMP,22.9,60,75.4,78
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,GO-5,0.8,NMP,22.9,70,83.3,56
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,GO-SO3H,0.4,NMP,22.9,68,82.4,53
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,GO-SO3H,0.8,NMP,22.9,74,86.7,50
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,40000,1,GO-SO3H,1.2,NMP,22.9,71,82.8,51
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,14,0.408,46.6,PVP,40000,6,none,0,NMP,22.9,32,50.4,87
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,14,0.408,46.6,PVP,40000,6,TiO2-SO3H NTs,1,NMP,22.9,39.7,58.6,72
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,14,0.408,46.6,PVP,40000,6,TiO2-SO3H NTs,3,NMP,22.9,38.8,66.3,63.7
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,14,0.408,46.6,PVP,40000,6,TiO2-SO3H NTs,5,NMP,22.9,36.2,62.7,58
+Polyethersulfone,,,18,0.41,42,PEG,400,10,none,0,DMF,24.8,12.9,69.2,68.1
+Polyethersulfone,,,18,0.41,42,PEG,400,10,mesoporous SiO2,1,DMF,24.8,13.7,74.8,61.8
+Polyethersulfone,,,18,0.41,42,PEG,400,10,mesoporous SiO2,2,DMF,24.8,14.6,75.9,56.6
+Polyethersulfone,,,18,0.41,42,PEG,400,10,mesoporous SiO2,4,DMF,24.8,12.8,74.9,57.1
+Polyethersulfone,,58000,17,0.41,42,PVP,,1,none,0,DMAc,22.7,25,70,72
+Polyethersulfone,,58000,17,0.41,42,PVP,,1,CQDs,0.5,DMAc,22.7,32.5,75,56
+Polylactic acid,,60000,16,1.5,41.3,PVP,40000,2,none,0,NMP,22.9,95,56,83
+Polylactic acid,,60000,15,1.5,41.3,PVP,40000,2,none,0,DMAc,22.7,88.6,80,82.1
+Polylactic acid,,60000,18,1.5,41.3,PVP,40000,2,none,0,DMAc,22.7,73.3,67,57
+Polylactic acid,,60000,20,1.5,41.3,PVP,40000,2,none,0,DMAc,22.7,56.9,64.5,40
+Polyethersulfone,,,18,0.41,42,PEG,1000,7,none,0,DMAc,22.7,5.14,54.12,82.49
+Polyethersulfone,,,15,0.41,42,PEG,1000,7,SPSF-DS10,3,DMAc,22.7,8.13,88.29,75.14
+Polyethersulfone,,,15,0.41,42,PEG,1000,7,SPSF-DS30,3,DMAc,22.7,7.19,67.64,70.86
+Polyethersulfone,,,15,0.41,42,PEG,1000,7,SPSF-DS50,3,DMAc,22.7,8.89,84.17,63.9
+Poly (arylene ether ketone),,,16,,,PVP,,8,none,0,NMP,22.9,21.2,82.3,77
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,1.5,none,0,NMP,22.9,40,58,75
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,1.5,Fe2O3/Mn2O3 NPs,0.1,NMP,22.9,44.1,67,70
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,1.5,Fe2O3/Mn2O3 NPs,0.25,NMP,22.9,45.5,74,64
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,1.5,Fe2O3/Mn2O3 NPs,0.5,NMP,22.9,43.3,71,65
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,1.5,Fe2O3/Mn2O3 NPs,1,NMP,22.9,43.1,65,67
+Polyether ether sulfone,,35000,15,,,PVP,30000,0,TiO2 NPs-4,1.5,NMP,22.9,4.15,62,52.3
+Polyether ether sulfone,,35000,12.5,,,PVP,30000,2.5,TiO2 NPs-4,1.5,NMP,22.9,4.7,70,46.5
+Polyether ether sulfone,,35000,10,,,PVP,30000,5,TiO2 NPs-4,1.5,NMP,22.9,5.7,78,42.5
+Polyether ether sulfone,,35000,7.5,,,PVP,30000,7.5,TiO2 NPs-4,1.5,NMP,22.9,4.7,74,43.3
+Polyether ether sulfone,,35000,5,,,PVP,30000,10,TiO2 NPs-4,1.5,NMP,22.9,4.2,75,44
+Polyvinyl chloride,ClC=C,,18,0.84,,PEG,4000,1,HNT-SiO2-PEI,0.25,DMAc,22.7,5.1,63.1,56.3
+Polyvinyl chloride,ClC=C,,18,0.84,,PEG,4000,1,HNT-SiO2-PEI,0.5,DMAc,22.7,5.8,70,54.2
+Polyvinyl chloride,ClC=C,,18,0.84,,PEG,4000,1,HNT-SiO2-PEI,1,DMAc,22.7,6.5,71.9,52.1
+Polyvinyl chloride,ClC=C,,18,0.84,,PEG,4000,1,HNT-SiO2-PEI,2,DMAc,22.7,7.6,72.5,51.7
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,none,0,DMAc,22.7,26.97,42.8,91.2
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,HNTs,1,DMAc,22.7,27.55,47.45,82.5
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,HNTs,2,DMAc,22.7,30.87,52.92,77.5
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,HNTs,3,DMAc,22.7,28.2,48.91,76.2
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,none,0,DMAc,22.7,26.97,42.8,91.3
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,CeO2-HNTs,1,DMAc,22.7,27.55,47.45,88.09
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,CeO2-HNTs,2,DMAc,22.7,30.87,44.69,98.48
+Polyvinyl chloride,ClC=C,48000,14,0.84,,PVP,,1,CeO2-HNTs,3,DMAc,22.7,28.2,42.27,74.14
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,,6,none,0,DMAc,22.7,20.2,52.6,77.1
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,,6,TiO2 NTs,3,DMAc,22.7,72.5,62.6,61.4
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,,6,TiO2-HNTs,3,DMAc,22.7,93.9,65.4,52.9
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,PAA-g-MWCNT-TiO2,0.1,DMAc,22.7,65,73.75,76
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,PAA-g-MWCNT-TiO2,0.5,DMAc,22.7,70,78.75,65
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,PAA-g-MWCNT-TiO2,1,DMAc,22.7,75,82.5,52.5
+Polyethersulfone,,58000,20,0.41,42,PVP,25000,1,PAA-g-MWCNT-TiO2,2,DMAc,22.7,77.5,77.5,41
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,4000,2,boehmite,0,NMP,22.9,5.55,68.7,71.3
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,4000,2,boehmite,0.25,NMP,22.9,6.3,71.3,62.3
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,4000,2,boehmite,0.5,NMP,22.9,6.65,74.1,59.8
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,4000,2,boehmite,0.75,NMP,22.9,7.45,79.2,57.2
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,4000,2,boehmite,1,NMP,22.9,7.05,76.4,53.2
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,4000,2,boehmite,2,NMP,22.9,6.85,75.9,51
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,none,0,NMP,22.9,9.3,67.9,67.5
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,ZnO NPs-3,0.3,NMP,22.9,9.8,70.5,65.4
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,ZnO NPs-3,1,NMP,22.9,10.5,75.1,62.1
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,ZnO NPs-3,2,NMP,22.9,11.2,77.3,57.8
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,ZnO NPs-3,3,NMP,22.9,12.1,79.8,54.5
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,ZnO NPs-3,4,NMP,22.9,11.5,76.2,52.2
+Polyvinyl chloride,ClC=C,,15,0.84,,PVP,40000,4,none,0,NMP,22.9,61.38,66.1,77.5
+Polyvinyl chloride,ClC=C,,15,0.84,,PVP,40000,4,Al2O3 NPs-2,1,NMP,22.9,63.25,69.9,74.2
+Polyvinyl chloride,ClC=C,,15,0.84,,PVP,40000,4,Al2O3 NPs-2,2,NMP,22.9,73.45,72.3,69.8
+Polyvinyl chloride,ClC=C,,15,0.84,,PVP,40000,4,Al2O3 NPs-2,3,NMP,22.9,85.8,76.8,64.3
+Polyvinyl chloride,ClC=C,,15,0.84,,PVP,40000,4,Al2O3 NPs-2,4,NMP,22.9,82.14,71.1,58.1
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,none,0,NMP,22.9,3.4,76.9,67.5
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,TiO2 NPs-5,1,NMP,22.9,3.4,79.6,62
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,Ag-TiO2,0.25,NMP,22.9,3.7,83.3,61.2
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,Ag-TiO2,0.5,NMP,22.9,3.8,82.5,60
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,Ag-TiO2,1,NMP,22.9,3.9,82,58
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,Ag-TiO2,2,NMP,22.9,3.7,81,57
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,Ag-TiO2,4,NMP,22.9,3.6,80.8,56
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,TiO2 NPs-6,0.2,NMP,22.9,9.6,72.6,64.6
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,TiO2 NPs-6,0.5,NMP,22.9,10,76.4,61.03
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,TiO2 NPs-6,1,NMP,22.9,10.3,79.1,59.1
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,TiO2 NPs-6,2,NMP,22.9,12.5,78.7,57.2
+Polyvinyl chloride,ClC=C,,15,0.84,,PEG,6000,4,TiO2 NPs-6,4,NMP,22.9,12.1,75.2,55.4
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,SPDA,0,NMP,22.9,41,62,70
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,SPDA,1,NMP,22.9,55,70,66
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,SPDA,2,NMP,22.9,53,79.5,61.25
+Polyethersulfone,,58000,16,0.41,42,PVP,40000,2,SPDA,4,NMP,22.9,55,75,53.75
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,,1,none,0,DMAc,22.7,37.42,69.58,78.75
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,,1,OMWCNTs,1,DMAc,22.7,42.78,78.14,67
+Polyvinylidene fluoride,FC(F)=C,,15,1.22,29.2,PVP,,1,GO-6,1,DMAc,22.7,45.32,79.59,66.2
+Carboxylated polysulfone,,,17,,,PVP,30000,4,none,0,NMP,22.9,5.36,52.7,76
+Carboxylated polysulfone,,,17,,,PVP,30000,4,PDA-g-HANTs,0.3,NMP,22.9,6.42,67.3,66.5
+Carboxylated polysulfone,,,17,,,PVP,30000,4,PDA-PEI-g-HANTs,0.1,NMP,22.9,6.09,62.6,72.2
+Carboxylated polysulfone,,,17,,,PVP,30000,4,PDA-PEI-g-HANTs,0.2,NMP,22.9,6.63,70.4,68.3
+Carboxylated polysulfone,,,17,,,PVP,30000,4,PDA-PEI-g-HANTs,0.3,NMP,22.9,7.41,74.2,62.5
+Carboxylated polysulfone,,,17,,,PVP,30000,4,PDA-PEI-g-HANTs,0.4,NMP,22.9,6.99,72.1,60.1
+Polyvinylidene fluoride,FC(F)=C,470000,13,1.22,29.2,none,,0,GO-8,0,DMAc,22.7,7.99,71.74,72.6
+Polyvinylidene fluoride,FC(F)=C,470000,13,1.22,29.2,none,,0,GO-8,0.5,DMAc,22.7,10.61,74.48,70.5
+Polyvinylidene fluoride,FC(F)=C,470000,13,1.22,29.2,none,,0,GO-8,1,DMAc,22.7,12.34,75.35,64.2
+Polyvinylidene fluoride,FC(F)=C,470000,13,1.22,29.2,none,,0,GO-8,2,DMAc,22.7,12.61,76.83,60.5
+poly(m-phenylene isophthalamide),,200000,12,1.01,,none,,0,LiCl,5,DMAc,22.7,23.4,47.86,70.55
+poly(m-phenylene isophthalamide),,200000,12,1.01,,Pluronic F127,12600,0.5,LiCl,5,DMAc,22.7,24.1,52.5,57.5
+poly(m-phenylene isophthalamide),,200000,12,1.01,,Pluronic F127,12600,1,LiCl,5,DMAc,22.7,24.5,57.5,56
+poly(m-phenylene isophthalamide),,200000,12,1.01,,Pluronic F127,12600,1.5,LiCl,5,DMAc,22.7,25.75,62,54
+poly(m-phenylene isophthalamide),,200000,12,1.01,,Pluronic F127,12600,2,LiCl,5,DMAc,22.7,26,70,50
+poly(m-phenylene isophthalamide),,200000,12,1.01,,Pluronic F127,12600,2.5,LiCl,5,DMAc,22.7,26.66,74.83,44.71
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z1),0.02,DMAc,22.7,7,76.5,72.5
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z1),0.05,DMAc,22.7,8.2,79.4,71
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z1),0.1,DMAc,22.7,8.5,81.3,67.5
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z1),0.2,DMAc,22.7,7.6,81.4,66
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z1),0.5,DMAc,22.7,7.4,77.2,64
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z1),1,DMAc,22.7,7.2,69.4,61
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z2),0.02,DMAc,22.7,6.5,74.2,73
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z2),0.05,DMAc,22.7,6.8,75.7,71.25
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z2),0.1,DMAc,22.7,7.3,77.9,70
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z2),0.2,DMAc,22.7,7.4,80.9,65.5
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z2),0.5,DMAc,22.7,7.1,72.3,65
+Polyvinylidene fluoride,FC(F)=C,,18,1.22,29.2,PVP,29000,1,ZIF-8 (Z2),1,DMAc,22.7,6.9,71.5,62.5
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,none,0,NMP,22.9,23.77,58.59,78.49
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,GO-9,0.5,NMP,22.9,22.24,70.44,75.38
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,GO-9,1,NMP,22.9,22.32,73.62,63.61
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,GO-9,1.5,NMP,22.9,21.1,72.52,68.33
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,UiO-66-2,1,NMP,22.9,22.27,73.4,68
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,GO-UiO-66,0.5,NMP,22.9,23.74,74.37,70.41
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,GO-UiO-66,1,NMP,22.9,24.49,80.71,58.31
+Polyvinylidene fluoride,FC(F)=C,400000,15,1.22,29.2,PVP,40000,1,GO-UiO-66,1.5,NMP,22.9,23.71,78.41,60.88
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PVP,,1,none,0,DMAc,22.7,27.8,47.1,80.8
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PVP,,1,GO-10,0.5,DMAc,22.7,28.1,48.9,78.2
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PVP,,1,DPPA-GO,0.1,DMAc,22.7,29.7,45.8,77
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PVP,,1,DPPA-GO,0.3,DMAc,22.7,32.8,49.3,71.9
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PVP,,1,DPPA-GO,0.5,DMAc,22.7,35.7,50.3,68.6
+Polysulfone,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.Oc3ccc(cc3)S(=O)(=O)c4ccc(O)cc4,,18,0.408,46.6,PVP,,1,DPPA-GO,1,DMAc,22.7,39.8,49.3,71.7
+Polyvinylidene fluoride,FC(F)=C,,16,1.22,29.2,PVP,,3,PFSA-g-GO,0,DMAc,22.7,32.7,43.2,90
+Polyvinylidene fluoride,FC(F)=C,,16,1.22,29.2,PVP,,3,PFSA-g-GO,0.5,DMAc,22.7,66.6,77.1,71
+Cellulose acetate,,30000,16,,63.55,PEG,400,2,CNC-3,3,DMF,24.8,30.5,62,61.5
+Cellulose acetate,,30000,16,,63.55,PEG,400,2,CNC-3,5,DMF,24.8,34,77.5,58.25
+Cellulose acetate,,30000,16,,63.55,PEG,400,2,CNC-3,10,DMF,24.8,39,89.5,62
+Cellulose acetate,,30000,16,,63.55,PEG,400,2,CNC-3,15,DMF,24.8,61,94.5,68.5
+Cellulose acetate,,,15,,63.55,PVP,25000,2,none,0,NMP,22.9,68.5,40.8,67.1
+Cellulose acetate,,,15,,63.55,PVP,25000,2,CNC-4,0.5,NMP,22.9,72,61.4,53
+Cellulose acetate,,,15,,63.55,PVP,25000,2,CNC-4,1.2,NMP,22.9,26.7,63.2,47.2
